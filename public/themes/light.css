@@ -1,0 +1,9 @@
+:root {
+    /* 白色主题 */
+    --bg-color: #fff;
+    --text-color: #000;
+    --title-bar-color: #fff;
+    --btn-cover-color: rgba(0, 0, 0, 0.05);
+    --svg-stroke-color: black;
+    --border-color: #e0e0e0;
+}
